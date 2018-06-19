@@ -11,7 +11,7 @@
 
 >数据来源
 
-底层模拟外卖API数据,通过vue-resource获取
+node server层模拟外卖API数据,通过vue-resource获取
 
 >功能说明
 
